@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dinith Herath 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DinithHerath)
 
+
+### Github statistics
+![GitHub stats](https://github-readme-stats.dinithherath.vercel.app//api?username=dinithherath&count_private=true&count_private=true) ![Top Langs](https://github-readme-stats.dinithherath.vercel.app/api/top-langs/?username=dinithherath)
 <!--
 **DinithHerath/DinithHerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![trophy](https://github-profile-trophy.vercel.app/?username=dinithherath&row=1&column=5)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
