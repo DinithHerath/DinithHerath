@@ -18,7 +18,7 @@ I'm **Dinith Herath** an Electronic Engineer and a Flutter Developer currently s
 - 💬 Ask me about anything related to Flutter and IoT, will try to help you at my best 😊
 - 📫 How to reach me: dinithherath18332@gmail.com
 
-> 🙄 I wondered about what will my career path be an one day learned an IoT lesson 👣
+> 🙄 I wondered about what will my career path be and one day started learning IoT lessons 👣
 
 ### Top Technologies 
 
