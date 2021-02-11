@@ -8,7 +8,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-dinithherath18332-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dinithherath18332@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@dinith__herath-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dinith_herath)](https://twitter.com/dinithherath) [![Linkedin Badge](https://img.shields.io/badge/-DinithHerath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinith-herath-65a761168/) [![Mail Badge](https://img.shields.io/badge/-@dini__herath-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dini_herath/) 
 
-I'm **Dinith Herath** an Electronic Engineer and a Flutter Developer currently studying in 3rd year at Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. I am also co-founder at [iXD Labs](https://ixdlabs.lk) and working as the **Product Lead**. 
+I'm **Dinith Herath**, an Electronic and Tele Communication Engineer and a Flutter Developer currently studying in 3rd year at Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. I am also co-founder at [iXD Labs](https://ixdlabs.lk) and working as the **Product Lead**. 
 
 I spend most of my time developing **outstanding projects** or thinking about new **innovative ideas** to solve problems around me.
 
