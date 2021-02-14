@@ -21,7 +21,7 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 - 💬 Ask me about anything related to Flutter and IoT, will try to help you at my best. 😊
 - 📫 How to reach me: dinithherath18332@gmail.com
 
-> 🙄 I wondered about what will my career path be and one day started learning IoT lessons 👣
+> 🙄 I wondered about what will my career path be in the future and one day started learning IoT lessons 👣
 
 ### Top Technologies 
 
