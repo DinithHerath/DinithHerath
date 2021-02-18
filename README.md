@@ -29,6 +29,6 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 [![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-F0DB4F?style=for-the-badge&labelColor=black&logo=flutter&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-e535ab?style=for-the-badge&labelColor=black&logo=css3&logoColor=e535ab)](#)
 
 ## Github statistics
-![GitHub stats](https://github-readme-stats.dinithherath.vercel.app//api?username=dinithherath&count_private=true&count_private=true) ![Top Langs](https://github-readme-stats.dinithherath.vercel.app/api/top-langs/?username=dinithherath)
-[![DinithHerath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinithherath)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.dinithherath.vercel.app/api?username=dinithherath&count_private=true&count_private=true) ![Top Langs](https://github-readme-stats.dinithherath.vercel.app/api/top-langs/?username=dinithherath)
+[![DinithHerath's wakatime stats](https://github-readme-stats.dinithherath.vercel.app/api/wakatime?username=dinithherath)](https://github.com/anuraghazra/github-readme-stats)
  
