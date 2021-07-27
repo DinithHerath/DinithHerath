@@ -12,7 +12,7 @@ I'm **Dinith Herath**, an Electronic and Telecommunication Engineer and a Flutte
 
 I spend most of my time developing **outstanding projects** or thinking about new **innovative ideas** to solve problems around me.
 
-- 🔭 I’m currently working @ixdlabs and @fcodelabs
+- 🔭 I’m currently working @ixdlabs
 - 🏬 Take a look at [our company profile](https://ixdlabs.lk/#about-section).
 - 👨‍🎓 Take a look at [my web portfolio](https://dinithherath.github.io).
 - 🎉 Find [my cv](https://dinithherath.github.io/CV_Dinith_Herath.pdf).
