@@ -16,7 +16,8 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 - 🏬 Take a look at [our company profile](https://ixdlabs.lk/#about-section).
 - 👨‍🎓 Take a look at [my web portfolio](https://dinithherath.github.io).
 - 🎉 Find [my cv](https://dinithherath.github.io/CV_Dinith_Herath.pdf).
-- 🚀 I’m currently learning &nbsp; <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://www.bluetooth.com/wp-content/themes/bluetooth/images/logos/bluetooth-logo-color-black.svg" height="28px" alt="IoT">
+- 🚀 I’m currently learning &nbsp;
+<img src="https://user-images.githubusercontent.com/41161459/143691939-138c27b5-f862-430d-85be-8f3b795a56f0.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://www.bluetooth.com/wp-content/themes/bluetooth/images/logos/bluetooth-logo-color-black.svg" height="28px" alt="IoT">
   
 - 💬 Ask me about anything related to Flutter and IoT, will try to help you at my best. 😊
 - 📫 How to reach me: dinithherath18332@gmail.com
