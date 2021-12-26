@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DinithHerath) ![Github](https://img.shields.io/github/followers/dinithherath?label=Follow&style=social)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dinithherath&row=1&column=8&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=dinithherath&row=1&column=7&margin-w=15)
 
 :mailbox: Reach me out!
 
