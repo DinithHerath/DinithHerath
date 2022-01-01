@@ -12,7 +12,7 @@ I'm **Dinith Herath**, an Electronic and Telecommunication Engineer and a Develo
 
 I spend most of my time developing **outstanding projects** or thinking about new **innovative ideas** to solve problems around me.
 
-- 👨‍🎓 Take a look at [my web portfolio](https://dinithherath.github.io).
+- 👨‍🎓 Take a look at [my web portfolio](https://dinithherath).
 - 🎉 Find [my cv](https://dinithherath.github.io/CV_Dinith_Herath.pdf).
 - 🚀 I’m currently learning &nbsp;
 <img src="https://user-images.githubusercontent.com/41161459/143691939-138c27b5-f862-430d-85be-8f3b795a56f0.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://www.bluetooth.com/wp-content/themes/bluetooth/images/logos/bluetooth-logo-color-black.svg" height="28px" alt="IoT">
