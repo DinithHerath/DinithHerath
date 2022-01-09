@@ -15,7 +15,7 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 - 👨‍🎓 Take a look at [my web portfolio](https://dinithherath).
 - 🎉 Find [my cv](https://dinithherath.github.io/CV_Dinith_Herath.pdf).
 - 🚀 I’m currently learning &nbsp;
-<img src="https://user-images.githubusercontent.com/41161459/143691939-138c27b5-f862-430d-85be-8f3b795a56f0.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://www.bluetooth.com/wp-content/themes/bluetooth/images/logos/bluetooth-logo-color-black.svg" height="28px" alt="IoT">
+<img src="https://user-images.githubusercontent.com/41161459/148689211-8f815c7f-243c-4def-8f29-c5d04b1bb83f.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://user-images.githubusercontent.com/41161459/148689363-7e4cbc7d-9a35-4466-93ae-e334fa571dea.png" height="28px" alt="IoT">
   
 - 💬 Ask me about anything related to Development(Mobile/Web) and IoT, will try to help you at my best. 😊
 - 📫 How to reach me: dinithherath18332@gmail.com
