@@ -12,8 +12,8 @@ I'm **Dinith Herath**, an Electronic and Telecommunication Engineer and a Develo
 
 I spend most of my time developing **outstanding projects** or thinking about new **innovative ideas** to solve problems around me.
 
-- 👨‍🎓 Take a look at [my web portfolio](https://dinithherath).
-- 🎉 Find [my cv](https://dinithherath.github.io/CV_Dinith_Herath.pdf).
+- 👨‍🎓 Take a look at [my web portfolio](https://dinithherath.me).
+- 🎉 Find [my cv](https://dinithherath.me/Dinith-Herath-CV.pdf).
 - 🚀 I’m currently learning &nbsp;
 <img src="https://user-images.githubusercontent.com/41161459/148689211-8f815c7f-243c-4def-8f29-c5d04b1bb83f.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://user-images.githubusercontent.com/41161459/148689363-7e4cbc7d-9a35-4466-93ae-e334fa571dea.png" height="28px" alt="IoT">
   
