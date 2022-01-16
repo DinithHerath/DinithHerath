@@ -61,7 +61,7 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 <h2 align="center">📈 Github Statistics 📈</h2>
 <br>
 
-![GitHub stats](https://github-readme-stats.dinithherath.vercel.app/api?username=dinithherath&count_private=true&count_private=true) ![Top Langs](https://github-readme-stats.dinithherath.vercel.app/api/top-langs/?username=dinithherath)
+![GitHub stats](https://github-readme-stats.dinithherath.vercel.app/api?username=dinithherath&count_private=true) ![Top Langs](https://github-readme-stats.dinithherath.vercel.app/api/top-langs/?username=dinithherath&include_all_commits=true&langs_count=9&layout=compact)
 [![DinithHerath's wakatime stats](https://github-readme-stats.dinithherath.vercel.app/api/wakatime?username=dinithherath&v=2)](https://github.com/anuraghazra/github-readme-stats)
 [![DInithHerath's github activity graph](https://activity-graph.herokuapp.com/graph?username=DinithHerath&theme=chartreuse-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
