@@ -17,7 +17,7 @@ I spend most of my time developing **outstanding projects** or thinking about ne
 - 🚀 I’m currently learning &nbsp;
 <img src="https://user-images.githubusercontent.com/41161459/148689211-8f815c7f-243c-4def-8f29-c5d04b1bb83f.png" height="28px" alt="Flutter"> &nbsp;and  &nbsp; <img src="https://user-images.githubusercontent.com/41161459/148689363-7e4cbc7d-9a35-4466-93ae-e334fa571dea.png" height="28px" alt="IoT">
   
-- 💬 Ask me about anything related to Development(Mobile/Web) and IoT, will try to help you at my best. 😊
+- 💬 Ask me about anything related to Development(Mobile / Web) and IoT, will try to help you at my best. 😊
 - 📫 How to reach me: dinithherath18332@gmail.com
 
 > 🙄 I wondered about what will my career path be in the future and one day started learning IoT lessons and a code snippet 👣
